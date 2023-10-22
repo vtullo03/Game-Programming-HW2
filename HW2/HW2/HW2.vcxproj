@@ -142,6 +142,9 @@
   <ItemGroup>
     <Image Include="Cowboy1.png" />
     <Image Include="Cowboy2.png" />
+    <Image Include="p1win.png" />
+    <Image Include="p2win.png" />
+    <Image Include="Tumbleweed.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

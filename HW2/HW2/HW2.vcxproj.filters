@@ -34,5 +34,14 @@
     <Image Include="Cowboy2.png">
       <Filter>Source Files</Filter>
     </Image>
+    <Image Include="Tumbleweed.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="p1win.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="p2win.png">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
